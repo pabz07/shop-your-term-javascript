@@ -3084,7 +3084,7 @@ blockquote {
 }
 
 .section.calc-charts {
-  background-image: url("https://cdn.prod.website-files.com/6734cbb3af9747717d945058/6734cbb3af9747717d9450c9_cta-section-background.svg");
+  background-image: url("/images/6734cbb3af9747717d9450c9_cta-section-background.svg");
   background-position: 0 0;
   background-size: auto;
 }
@@ -4011,7 +4011,7 @@ blockquote {
 .savings_interest-select {
   background-color: var(--swatch--neutral-3);
   color: var(--color--black-2);
-  background-image: url("https://cdn.prod.website-files.com/6734cbb3af9747717d945058/6734cbb3af9747717d9450c7_interest-rate-chevron.svg");
+  background-image: url("/images/6734cbb3af9747717d9450c7_interest-rate-chevron.svg");
   background-position: 95%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -4050,7 +4050,7 @@ blockquote {
   color: var(--color--black-2);
   font-size: var(--text-m--font-size-desktop);
   cursor: pointer;
-  background-image: url("https://cdn.prod.website-files.com/6734cbb3af9747717d945058/6734cbb3af9747717d9450c7_interest-rate-chevron.svg");
+  background-image: url("/images/6734cbb3af9747717d9450c7_interest-rate-chevron.svg");
   background-position: 85%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -4071,7 +4071,7 @@ blockquote {
 .savings_monthly-select.black {
   background-color: var(--swatch--black);
   color: var(--color--white);
-  background-image: url("https://cdn.prod.website-files.com/6734cbb3af9747717d945058/6734cbb3af9747717d9450cd_chevron-white.svg");
+  background-image: url("/images/6734cbb3af9747717d9450cd_chevron-white.svg");
   border-radius: 0;
 }
 
@@ -4510,7 +4510,7 @@ blockquote {
   background-color: var(--swatch--white);
   color: var(--color--black-2);
   font-size: var(--text-m--font-size-desktop);
-  background-image: url("https://cdn.prod.website-files.com/6734cbb3af9747717d945058/6734cbb3af9747717d9450c7_interest-rate-chevron.svg");
+  background-image: url("/images/6734cbb3af9747717d9450c7_interest-rate-chevron.svg");
   background-position: 94%;
   background-repeat: no-repeat;
   background-size: auto;
